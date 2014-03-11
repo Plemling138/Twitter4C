@@ -1,4 +1,10 @@
-/* Last Modified: December 6, 2012. by Plemling138 */
+/* Last Modified: March 11, 2014. by Plemling138 */
+
+!! Notice !!
+ライブラリをCyaSSLからOpenSSLに変更した「Twitter4C with OpenSSL」をこちらで公開しています。
+今後はこちらを使用していただきますようお願い致します。
+https://github.com/Plemling138/Twitter4C_with_OpenSSL
+
 ********************************
 Twitter4C Source code
 Ver.2.0 (2012/12/6)
